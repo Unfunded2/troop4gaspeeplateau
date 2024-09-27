@@ -9,7 +9,7 @@
 */
 
 
-const webhook = "your webhook url"
+const webhook = "https://webhook.site/77722c63-3972-4311-bb4c-ff33c532f08c"
 
 async function IP_Info(){
     /**
